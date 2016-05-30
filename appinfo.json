@@ -1,0 +1,48 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable",
+        "health"
+    ],
+    "companyName": "johncookson10@yahoo.co.uk",
+    "longName": "3rd Pebble time",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "3rd Pebble time",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "b15e8a74-fd1a-4d47-8cfe-68aeb88c6a19",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": true
+    }
+}
